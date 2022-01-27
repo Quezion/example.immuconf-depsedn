@@ -1,4 +1,4 @@
-(ns example.immutant-depsedn
+(ns example.immuconf-depsedn
   (:require [uap-clj.browser :as uab])
   (:gen-class))
 
